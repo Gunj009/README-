@@ -1,5 +1,5 @@
 # README-
-# Spotify 2023 Top Songs Dataset - Random Forest Model Project
+# Spotify Top Songs Dataset - ModelProject
 
 ## Overview
 
